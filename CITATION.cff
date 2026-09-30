@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use, share, or adapt this work, please cite it as below."
+title: "Common Sense"
+version: "2.0.0"
+date-released: 2026-09-30
+authors:
+  - family-names: "Anziano"
+    given-names: "Salvatore M."
+doi: "10.5281/zenodo.23051288"
+license: "CC-BY-4.0"
+url: "https://github.com/Xxaion-Labs/Common-Sense"
